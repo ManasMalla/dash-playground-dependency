@@ -6,7 +6,7 @@
             "size": 1063256064
         },
         {
-            "name": "cmdline-tools",
+            "name": "command-line-tools",
             "url": "https://dl.google.com/android/repository/commandlinetools-mac-8512546_latest.zip",
             "size": 113246208
         },
