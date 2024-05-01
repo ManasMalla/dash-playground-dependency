@@ -1,0 +1,49 @@
+{
+    "dependencies": [
+        {
+            "name": "android-studio-chipmunk",
+            "url": "https://redirector.gvt1.com/edgedl/android/studio/ide-zips/2021.2.1.15/android-studio-2021.2.1.15-mac_arm.zip",
+            "size": 1063256064
+        },
+        {
+            "name": "cmdline-tools",
+            "url": "https://dl.google.com/android/repository/commandlinetools-mac-8512546_latest.zip",
+            "size": 113246208
+        },
+        {
+            "name": "openJDK",
+            "url": "https://download.java.net/java/GA/jdk18.0.1.1/65ae32619e2f40f3a9af3af1851d6e19/2/GPL/openjdk-18.0.1.1_macos-aarch64_bin.tar.gz",
+            "size": 183500800
+        },
+        {
+            "name": "visual-studio-code",
+            "url": "https://code.visualstudio.com/sha/download?build=stable&os=darwin-arm64",
+            "size": 108003328
+        }
+    ],
+    "desktop-tools-size": 13212057600,
+    "flutter-sdk-size": 1258291200,
+    "emulator-size": [
+        {
+            "33": 1468006400
+        },
+        {
+            "32": 1258291200
+        },
+        {
+            "31": 657457152
+        },
+        {
+            "30": 676331520
+        },
+        {
+            "29": 689963008
+        },
+        {
+            "28": 565182464
+        },
+        {
+            "0": 251658240
+        }
+    ]
+}
